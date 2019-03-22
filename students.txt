@@ -3,4 +3,8 @@ John Doe
 Jane Smith
 Jack Johnson
 Janice Jackson
+<<<<<<< HEAD
 Anu
+=======
+Rejoice
+>>>>>>> feature
